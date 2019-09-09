@@ -3,7 +3,7 @@ Manipulando arquivos XML em Java com a API DOM: Exemplo de como ler um documento
 
 Abaixo deixo o arquivo xml utilizando no exemplo:
 
-<?xml version="1.0" encoding="UTF-8">
+"<?xml version="1.0" encoding="UTF-8">
 <agenda>
     <contato id="01">
         <nome>Pedro</nome>
@@ -13,4 +13,4 @@ Abaixo deixo o arquivo xml utilizando no exemplo:
         <nome>João</nome>
         <email>joaopedroa.6@hotmail.com</email>
     </contato>
-</agenda>
+</agenda>"
