@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8">
+<agenda>
+    <contato id="01">
+        <nome>Pedro</nome>
+        <email>pedrohenriquea.6@hotmail.com</email>
+    </contato>
+     <contato id="02">
+        <nome>João</nome>
+        <email>joaopedroa.6@hotmail.com</email>
+    </contato>
+</agenda>
+
+
